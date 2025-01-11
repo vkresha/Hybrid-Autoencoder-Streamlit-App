@@ -1,4 +1,4 @@
-# Hybrid-Autoencoder-Streamlit-App
+# Arrhythmia Detection Streamlit App
 Hybrid Classification Model to detect Abnormal Heart Rate
 
 ## What is this code?
