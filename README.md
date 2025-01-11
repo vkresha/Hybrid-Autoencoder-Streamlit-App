@@ -1,4 +1,4 @@
-# Arrhythmia Detection Streamlit App
+# Arrhythmia Detection Model and Streamlit App
 Hybrid Classification Model to detect Abnormal Heart Rate
 
 ## What is this code?
