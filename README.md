@@ -33,7 +33,6 @@ The latent space is used to Predict its class (classifier).
 Class prediction: One of the five classes (F, N, S, V, Q).
 
 Screenshots of Prototype:
-image.png
-image.png
+<img width="832" alt="image" src="https://github.com/user-attachments/assets/244a7e00-4388-4be2-b8a5-5fa709bac405" />
 
 Streamlit Demo Link : https://drive.google.com/file/d/1Ydj2XPdlfipkFt4AVDZb5MeJ2pB3zYvJ/view?usp=drive_link
